@@ -143,4 +143,4 @@ copy running-config startup-config # сохранение новой конфи�
 
 * соседи:
 
-![](pictures/p_17png)
+![](pictures/p_17.png)
