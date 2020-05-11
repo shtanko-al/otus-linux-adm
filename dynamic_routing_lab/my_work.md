@@ -8,12 +8,15 @@
 Вход в quagga и присвоение id интерфейсу:
 
 ![](https://github.com/shtanko-al/otus-linux-adm/blob/master/dynamic_routing_lab/pictures/p_02.png)
+
 Назначение area 0 сети 10.0.0.1/32
 
 ![](https://github.com/shtanko-al/otus-linux-adm/blob/master/dynamic_routing_lab/pictures/p_03.png)
+
 Назначение area 0 сетям 172.16.1.0/24 и 172.16.2.0/24:
 
 ![](https://github.com/shtanko-al/otus-linux-adm/blob/master/dynamic_routing_lab/pictures/p_4.png)
+
 Включение интерфейсов eth1 и eth2 и сохранение конфигурации:
 
 ![](https://github.com/shtanko-al/otus-linux-adm/blob/master/dynamic_routing_lab/pictures/p_05.png)
